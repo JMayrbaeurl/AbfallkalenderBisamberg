@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Abfallkalender xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+            xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Kalenderjahr>2013</Kalenderjahr>
+  <Gemeinde>Bisamberg</Gemeinde>
+  
+  <Feiertag Datum ="2013-01-01" Name="Neujahr"/>
+  <Feiertag Datum ="2013-01-06" Name="Heilige 3 Könige"/>
+  <Feiertag Datum ="2013-03-31" Name="Ostersonntag"/>
+  <Feiertag Datum ="2013-04-01" Name="Ostermontag"/>
+  <Feiertag Datum ="2013-05-01" Name="Staatsfeiertag"/>
+  <Feiertag Datum ="2013-05-09" Name="Christi Himmelfahrt"/>
+  <Feiertag Datum ="2013-05-19" Name="Pfingstsonntag"/>
+  <Feiertag Datum ="2013-05-20" Name="Pfingstmontag"/>
+  <Feiertag Datum ="2013-05-30" Name="Fronleichnam"/>
+  <Feiertag Datum ="2013-08-15" Name="Maria Himmelfahrt"/>
+  <Feiertag Datum ="2013-10-26" Name="Nationalfeiertag"/>
+  <Feiertag Datum ="2013-11-01" Name="Allerheiligen"/>
+  <Feiertag Datum ="2013-11-02" Name="Allerseelen" Arbeitsfrei="false"/>
+  <Feiertag Datum ="2013-12-08" Name="Maria Empfängnis"/>
+  <Feiertag Datum ="2013-12-25" Name="Christtag"/>
+  <Feiertag Datum ="2013-12-26" Name="Stefanitag"/>
+
+  <!--Entsorgungen Jänner 2013 -->
+  <Entsorgung Datum="2013-01-04" Abfall="Restmüll"/>
+  <Entsorgung Datum="2013-01-09" Abfall="Gelber Sack" Zonen="A,C"/>
+  <Entsorgung Datum="2013-01-10" Abfall="Gelber Sack" Zonen="B"/>
+  <Entsorgung Datum="2013-01-17" Abfall="Restmüll 14tg"/>
+  <Entsorgung Datum="2013-01-17" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-01-18" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-01-21" Abfall="Altpapier"/>
+  <Entsorgung Datum="2013-01-31" Abfall="Restmüll" Zonen="A,C"/>
+
+  <!--Entsorgungen Februar 2013 -->
+  <Entsorgung Datum="2013-02-01" Abfall="Restmüll" Zonen="B"/>
+  <Entsorgung Datum="2013-02-07" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-02-08" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-02-14" Abfall="Restmüll 14tg"/>
+  <Entsorgung Datum="2013-02-18" Abfall="Altpapier"/>
+  <Entsorgung Datum="2013-02-20" Abfall="Gelber Sack" Zonen="A,C"/>
+  <Entsorgung Datum="2013-02-21" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-02-21" Abfall="Gelber Sack" Zonen="B"/>
+  <Entsorgung Datum="2013-02-22" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-02-28" Abfall="Restmüll" Zonen="A,C"/>
+
+  <!--Entsorgungen März 2013 -->
+  <Entsorgung Datum="2013-03-01" Abfall="Restmüll" Zonen="B"/>
+  <Entsorgung Datum="2013-03-07" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-03-08" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-03-14" Abfall="Restmüll 14tg"/>
+  <Entsorgung Datum="2013-03-18" Abfall="Altpapier"/>
+  <Entsorgung Datum="2013-03-21" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-03-22" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-03-28" Abfall="Restmüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-03-29" Abfall="Restmüll" Zonen="B"/>
+  
+  <!--Entsorgungen April 2013 -->
+  <Entsorgung Datum="2013-04-03" Abfall="Gelber Sack" Zonen="A,C"/>
+  <Entsorgung Datum="2013-04-04" Abfall="Gelber Sack" Zonen="B"/>
+  <Entsorgung Datum="2013-04-05" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-04-06" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-04-11" Abfall="Restmüll 14tg"/>
+  <Entsorgung Datum="2013-04-15" Abfall="Altpapier"/>
+  <Entsorgung Datum="2013-04-18" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-04-19" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-04-25" Abfall="Restmüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-04-26" Abfall="Restmüll" Zonen="B"/>
+
+  <!--Entsorgungen Mai 2013 -->
+  <Entsorgung Datum="2013-05-02" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-05-03" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-05-10" Abfall="Restmüll 14tg"/>
+  <Entsorgung Datum="2013-05-15" Abfall="Altpapier"/>
+  <Entsorgung Datum="2013-05-15" Abfall="Gelber Sack" Zonen="A,C"/>
+  <Entsorgung Datum="2013-05-16" Abfall="Gelber Sack" Zonen="B"/>
+  <Entsorgung Datum="2013-05-16" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-05-17" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-05-23" Abfall="Restmüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-05-24" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-05-24" Abfall="Restmüll" Zonen="B"/>
+  <Entsorgung Datum="2013-05-25" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-05-31" Abfall="Biomüll" Zonen="A,C"/>
+
+  <!--Entsorgungen Juni 2013 -->
+  <Entsorgung Datum="2013-06-01" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-06-06" Abfall="Restmüll 14tg"/>
+  <Entsorgung Datum="2013-06-06" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-06-07" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-06-10" Abfall="Altpapier"/>
+  <Entsorgung Datum="2013-06-13" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-06-14" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-06-20" Abfall="Restmüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-06-20" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-06-21" Abfall="Restmüll" Zonen="B"/>
+  <Entsorgung Datum="2013-06-21" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-06-26" Abfall="Gelber Sack" Zonen="A,C"/>
+  <Entsorgung Datum="2013-06-27" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-06-27" Abfall="Gelber Sack" Zonen="B"/>
+  <Entsorgung Datum="2013-06-28" Abfall="Biomüll" Zonen="B"/>
+  
+  <!--Entsorgungen Juli 2013 -->
+  <Entsorgung Datum="2013-07-04" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-07-04" Abfall="Restmüll 14tg"/>
+  <Entsorgung Datum="2013-07-05" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-07-08" Abfall="Altpapier"/>
+  <Entsorgung Datum="2013-07-11" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-07-12" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-07-18" Abfall="Restmüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-07-18" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-07-19" Abfall="Restmüll" Zonen="B"/>
+  <Entsorgung Datum="2013-07-19" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-07-25" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-07-26" Abfall="Biomüll" Zonen="B"/>
+    
+  <!--Entsorgungen August 2013 -->
+  <Entsorgung Datum="2013-08-01" Abfall="Restmüll 14tg"/>
+  <Entsorgung Datum="2013-08-01" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-08-02" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-08-05" Abfall="Altpapier"/>
+  <Entsorgung Datum="2013-08-07" Abfall="Gelber Sack" Zonen="A,C"/>
+  <Entsorgung Datum="2013-08-08" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-08-08" Abfall="Gelber Sack" Zonen="B"/>
+  <Entsorgung Datum="2013-08-09" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-08-16" Abfall="Restmüll"/>
+  <Entsorgung Datum="2013-08-16" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-08-17" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-08-22" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-08-23" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-08-29" Abfall="Restmüll 14tg"/>
+  <Entsorgung Datum="2013-08-29" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-08-30" Abfall="Biomüll" Zonen="B"/>
+  
+  <!--Entsorgungen September 2013 -->
+  <Entsorgung Datum="2013-09-02" Abfall="Altpapier"/>
+  <Entsorgung Datum="2013-09-05" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-09-06" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-09-12" Abfall="Restmüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-09-12" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-09-13" Abfall="Restmüll" Zonen="B"/>
+  <Entsorgung Datum="2013-09-13" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-09-18" Abfall="Gelber Sack" Zonen="A,C"/>
+  <Entsorgung Datum="2013-09-19" Abfall="Gelber Sack" Zonen="B"/>
+  <Entsorgung Datum="2013-09-19" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-09-20" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-09-26" Abfall="Restmüll 14tg"/>
+  <Entsorgung Datum="2013-09-26" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-09-27" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-09-30" Abfall="Altpapier"/>
+   
+  <!--Entsorgungen Oktober 2013 -->
+  <Entsorgung Datum="2013-10-03" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-10-04" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-10-10" Abfall="Restmüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-10-10" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-10-11" Abfall="Restmüll" Zonen="B"/>
+  <Entsorgung Datum="2013-10-11" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-10-17" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-10-18" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-10-24" Abfall="Restmüll 14tg"/>
+  <Entsorgung Datum="2013-10-28" Abfall="Altpapier"/>
+  <Entsorgung Datum="2013-10-30" Abfall="Gelber Sack" Zonen="A,C"/>
+  <Entsorgung Datum="2013-10-31" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-10-31" Abfall="Gelber Sack" Zonen="B"/>
+  
+  <!--Entsorgungen November 2013 -->
+  <Entsorgung Datum="2013-11-02" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-11-07" Abfall="Restmüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-11-08" Abfall="Restmüll" Zonen="B"/>
+  <Entsorgung Datum="2013-11-14" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-11-15" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-11-21" Abfall="Restmüll 14tg"/>
+  <Entsorgung Datum="2013-11-25" Abfall="Altpapier"/>
+  
+  <!--Entsorgungen Dezember 2013 -->
+  <Entsorgung Datum="2013-12-05" Abfall="Restmüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-12-05" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-12-06" Abfall="Restmüll" Zonen="B"/>
+  <Entsorgung Datum="2013-12-06" Abfall="Biomüll" Zonen="B"/>
+  <Entsorgung Datum="2013-12-11" Abfall="Gelber Sack" Zonen="A,C"/>
+  <Entsorgung Datum="2013-12-12" Abfall="Gelber Sack" Zonen="B"/>  
+  <Entsorgung Datum="2013-12-19" Abfall="Restmüll 14tg"/>
+  <Entsorgung Datum="2013-12-21" Abfall="Altpapier"/>
+  <Entsorgung Datum="2013-12-27" Abfall="Biomüll" Zonen="A,C"/>
+  <Entsorgung Datum="2013-12-28" Abfall="Biomüll" Zonen="B"/>
+  
+  <Abfallsammelzentrum>
+    <Oeffnungszeiten GeoeffnetAm="2013-01-03"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-01-05"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-01-10"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-01-12"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-01-17"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-01-19"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-01-24"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-01-26"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-01-31"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-02-02"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-02-07"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-02-09"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-02-14"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-02-16"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-02-21"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-02-23"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-02-28"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-03-02"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-03-07"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-03-09"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-03-14"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-03-16"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-03-21"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-03-23"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-03-28"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-03-30"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-04-04"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-04-11"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-04-13"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-04-18"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-04-20"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-04-25"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-04-27"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-05-02"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-05-04"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-05-11"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-05-16"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-05-18"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-05-23"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-05-25"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-06-01"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-06-06"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-06-08"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-06-13"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-06-15"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-06-20"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-06-22"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-06-27"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-06-29"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-07-04"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-07-06"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-07-11"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-07-13"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-07-18"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-07-20"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-07-25"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-07-27"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-08-01"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-08-03"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-08-08"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-08-10"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-08-17"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-08-22"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-08-24"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-08-29"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-08-31"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-09-05"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-09-07"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-09-12"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-09-14"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-09-19"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-09-21"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-09-26"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-09-28"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-10-03"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-10-05"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-10-10"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-10-12"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-10-17"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-10-19"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-10-24"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-10-31"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-11-02"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-11-07"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-11-09"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-11-14"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-11-16"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-11-21"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-11-23"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-11-28"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-11-30"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-12-05"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-12-07"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-12-12"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-12-14"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-12-19"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-12-21"/>
+    <Oeffnungszeiten GeoeffnetAm="2013-12-28"/>
+  </Abfallsammelzentrum>
+  
+</Abfallkalender>
